@@ -1,0 +1,12 @@
+label{
+	font-size: 1em;
+	font-weight: bold;
+}
+.footer{
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	font-size: 2em;
+	color: coral;
+	background-color: steelblue;
+}
